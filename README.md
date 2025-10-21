@@ -35,12 +35,13 @@ Run the following command, replacing each bracketed item with the appropriate va
 Example:
 python main.py --gpu 0 --mode VP --dataset ddad --dataset_path /path/to/ddad
 
-bibtex
+```bibtex
 @InProceedings{Jeong_2025_ICCV,
-    author    = {Jeong, Chanhwi and Bae, Inhwan and Park, Jin-Hwi and Jeon, Hae-Gon},
-    title     = {Test-Time Prompt Tuning for Zero-Shot Depth Completion},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-    month     = {October},
-    year      = {2025},
-    pages     = {9443-9454}
+  author    = {Jeong, Chanhwi and Bae, Inhwan and Park, Jin-Hwi and Jeon, Hae-Gon},
+  title     = {Test-Time Prompt Tuning for Zero-Shot Depth Completion},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  month     = {October},
+  year      = {2025},
+  pages     = {9443--9454}
 }
+```
