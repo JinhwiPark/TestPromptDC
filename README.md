@@ -58,6 +58,24 @@ Run the following command, replacing each bracketed item with the appropriate va
 Example:
 python main.py --gpu 0 --mode VP --dataset ddad --dataset_path /path/to/ddad
 
+## Additional Datasets (coming soon)
+
+We will soon update download and configuration instructions for the following datasets:
+
+- NYU Depth V2
+- VOID
+- KITTI Depth Completion
+- nuScenes Depth
+
+Quick Experiments: 
+If you want to quickly test our framework or explore related setups, check out the following repositories:
+
+🔹 [DepthPrompting](https://github.com/JinhwiPark/DepthPrompting)
+ — Visual prompt tuning for depth-aware foundation models
+ 
+🔹 [UniDC](https://github.com/JinhwiPark/UniDC)
+ — Universal Depth Completion baseline across sensors and environments
+
 ```bibtex
 @InProceedings{Jeong_2025_ICCV,
   author    = {Jeong, Chanhwi and Bae, Inhwan and Park, Jin-Hwi and Jeon, Hae-Gon},
