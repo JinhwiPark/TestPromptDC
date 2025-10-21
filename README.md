@@ -1,26 +1,4 @@
-<h2 align="center">Test-Time Prompt Tuning for Zero-Shot Depth Completion</h2>
-
-<p align="center">
-  <a href="https://chanhwijeong.github.io/"><strong>Chanhwi Jeong</strong></a> · 
-  <a href="https://inhwanbae.github.io/"><strong>Inhwan Bae</strong></a> · 
-  <a href="https://jinhwipark.com/"><strong>Jin-Hwi Park*</strong></a> · 
-  <a href="https://scholar.google.com/citations?user=Ei00xroAAAAJ"><strong>Hae-Gon Jeon*</strong></a>
-  <br>
-  <strong>ICCV 2025 Highlight Paper</strong><br>
-  <sub>* Corresponding Authors</sub>
-</p>
-
-<p align="center">
-  <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Jeong_Test-Time_Prompt_Tuning_for_Zero-Shot_Depth_Completion_ICCV_2025_paper.html">
-    <strong><code>📄 ICCV 2025 Paper</code></strong>
-  </a>
-  <a href="https://www.jinhwipark.com/Depth-with-Sensors">
-    <strong><code>🌐 Project Page</code></strong>
-  </a>
-  <a href="https://github.com/JinhwiPark/TestPromptDC">
-    <strong><code>💻 Official Code</code></strong>
-  </a>
-</p>
+<h2 align="center">Test-Time Prompt Tuning for Zero-Shot Depth Completion</h2> <p align="center"> <a href="https://chanhwijeong.github.io/"><strong>Chanhwi Jeong</strong></a> · <a href="https://inhwanbae.github.io/"><strong>Inhwan Bae</strong></a> · <a href="https://jinhwipark.com/"><strong>Jin-Hwi Park*</strong></a> · <a href="https://scholar.google.com/citations?user=Ei00xroAAAAJ"><strong>Hae-Gon Jeon*</strong></a> <br> <strong>ICCV 2025 Highlight Paper</strong><br> <sub>* Corresponding Authors</sub> </p> <p align="center"> <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Jeong_Test-Time_Prompt_Tuning_for_Zero-Shot_Depth_Completion_ICCV_2025_paper.html"> <strong><code>📄 ICCV 2025 Paper</code></strong> </a> <a href="https://www.jinhwipark.com/Depth-with-Sensors"> <strong><code>🌐 Project Page</code></strong> </a> <a href="https://github.com/JinhwiPark/TestPromptDC"> <strong><code>💻 Official Code</code></strong> </a> <a href="https://drive.google.com/file/d/1Gf-fgmjf02NKN8Ykv3nYIcNQmm5eUYFA/view"> <strong><code>🧩 Poster</code></strong> </a> </p>
 
 
 ## Summary:
